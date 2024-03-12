@@ -1,16 +1,19 @@
 
-<h1 align="left" id="suhailkakar-title">:wave: Hello there! My name is Diego Ponciano</h1>
-<h3 align="left">I am a Software Developer</h3>
+<h1 align="left" id="suhailkakar-title">👋 Hi there fellow traveler</h1>
+<h3 align="left">I'm Diego, a Software Engineer based in São Paulo - Brazil</h3>
 
 
 <a href="#diegoponciano-title">
   <img src="https://github-readme-stats.vercel.app/api?username=diegoponciano&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b2438&text_color=ffff&&title_color=ff6b6b&icon_color=ff6b6b&hide_border=true" alt="Diego Ponciano" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Loadsmart**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more in **[Twitter]**
+- 🏢 I'm currently working as a Backend Senior Engineer
+- 👀 I’m interested in python, dancing and photography
+- 🌱 I’m currently learning IoT and Zettelkasten
+- 💞️ I’m looking to collaborate on anything org or dev related
+- 📫 You can reach me on **[LinkedIn]** or **[Telegram]**
+- 😄 Pronouns: he/him (en-us) and ele/dele (pt-br)
+- ⚡ Fun fact: I'm on my 30s and just recently discovered I have ADHD
 
 <br>
 
@@ -21,8 +24,8 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/diegoponciano/ "LinkedIn"
-[twitter]: https://twitter.com/diegoponci "Twitter"
+[LinkedIn]: https://www.linkedin.com/in/diegoponciano/ "LinkedIn"
+[Telegram]: https://t.me/diegoponciano "Telegram"
 [articles]: https://www.binarcode.com/blog?tag=vuejs "Articles"
 [code snippets]: https://www.binarcode.com/resources "Code Snippets"
 
